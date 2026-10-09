@@ -4,5 +4,3 @@
 .matplotlib/
 .DS_Store
 
-# Dataset files (large; keep out of the code repository)
-*.csv
